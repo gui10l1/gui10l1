@@ -23,4 +23,4 @@ Abaixo estão as minhas **estatísticas** dentro do GitHub além da tabela de co
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-![Snake animation](https://github.com/rafaballerini/gui10l1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gui10l1/gui10l1/blob/output/github-contribution-grid-snake.svg)
