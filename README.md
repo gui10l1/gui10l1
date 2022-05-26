@@ -6,6 +6,12 @@ Seja **bem-vindo ou bem-vinda** ao meu perfil do GitHub!
 
 Sou *desenvolvedor web* há **3 anos**. Iniciei minha carreira bem novo, com 16 anos de idade fazendo trabalhos freelancers para adquirir **experiência e conhecimento** na área. Atualmente eu tenho 19 anos de idade, estou na faculdade cursando **Engenharia de Software** e sempre procurando **melhorar as minhas habilidades** de alguma forma.
 
+## Portfólio 🎨
+
+Tenho perfis no Behance que expoem alguns dos projetos que fiz. Dentro deste perfil também constam os códigos que foram utilizados nos projetos que lá (Behance) estão contidos.
+
+[Clique aqui para ir até o meu perfil no Behance.](https://www.behance.net/gui10l1)
+
 ## Estatísticas 🚀
 
 Abaixo estão as minhas **estatísticas** dentro do GitHub além da tabela de commits que está mais abaixo.
